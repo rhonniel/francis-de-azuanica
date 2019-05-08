@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A13, La leche suprema
+  m_EditorClassIdentifier: 
+  storyText: "Francis ve en el interior del alma de la m\xEDtica criatura  y siente
+    compasi\xF3n de ella, le pone una mano sobre su lomo y le dice que todo estar\xE1
+    bien, esta le agradece su gesto le dice que le puede ordenar , que su ubre posee
+    la leche suprema. Francis  acepta el regalo  y saca la leche. Al terminar el vacaaaa
+    se ve alegre y le indica que m\xE1s adelante esta dona lola. En eso de la nada
+    apareci\xF3 un portal en medio del sal\xF3n, francis procedi\xF3 atravesarlo mientras
+    una duda se clavaba en su mente.\r\n\r\n1. Continuar\r\n"
+  type: I
+  nextStates:
+  - {fileID: 11400000, guid: 1258c612874679641b6a588dd34e1f05, type: 2}

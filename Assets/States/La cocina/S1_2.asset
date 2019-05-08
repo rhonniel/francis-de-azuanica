@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: S1_2
+  m_EditorClassIdentifier: 
+  storyText: "El joven h\xE9roe retorno a la casa de su padre a gran velocidad, cuando
+    lleg\xF3 este ya casi fallece, francis r\xE1pidamente le dio una cucharada de
+    las habichuelas  con dulce. Su padre al probarlas reflejo una complaciente sonrisa.
+    Con esto francis tuvo la certeza de que su padre ya descansar\xEDa en paz pero
+    cuando intent\xF3 alejarse con el plato de habichuela , su padre la agarr\xF3
+    una pierna.\r\n\r\n-Francis pa donde tu ta llevando las habichuelas.\r\n-Papi
+    pero usted no estaba muri\xE9ndose?\r\n-Si francis pero de un antojo de comer
+    habichuelas buenas.\r\n\r\nAs\xED francis supo la noticia de que su padre estaba
+    bien y sano, solo lo manipulo para que le buscara las habichuelas con dulce, nada
+    que cualquier buen padre haria.\n\nFIN \r\n\r\n1. Continuar\r\n"
+  type: 
+  nextStates:
+  - {fileID: 11400000, guid: 96036cb1033283f4d855b913ac627739, type: 2}

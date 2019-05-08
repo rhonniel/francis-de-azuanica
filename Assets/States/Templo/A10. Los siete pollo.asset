@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A10. Los siete pollo
+  m_EditorClassIdentifier: 
+  storyText: "Los dos samurai se hacen aun lado al mismo tiempo y tras de ellos aparece
+    una puerte, la china le dice a Francis.\r\n-sube pola escalera  y pleparate pala
+    enflenta a una cliatura telible.\r\n\r\n1.Continuar \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: c4cb0dc695a88ac42855748e9010f572, type: 2}

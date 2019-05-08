@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: S2. Se dejan comer
+  m_EditorClassIdentifier: 
+  storyText: "El joven h\xE9roe retorna a gran velocidad en uber a su hogar, al llegar
+    su padre estaba postrado en su cama esperando la muerte. Francis se acerc\xF3
+    y puso en la boca de su padre una cucharada de las habichuelas con dulce. Su padre
+    saboreo un momento y luego dijo\r\n\r\n-umm, como que no tan muy buena no, pa
+    eso me hubieses comprada las del colmado al inicio del juego.\r\n\r\nY as\xED
+    el h\xE9roe  Francis se dio cuenta que no tom\xF3 las mejores decisiones durante
+    su aventura, quiz\xE1s podr\xEDa regresar en el tiempo y repetir su misi\xF3n?\r\n\r\nQu\xE9
+    decide Francis?\r\n\r\n1- Vamos a empezar de nuevo\r\n2- Ya fue suficiente acci\xF3n
+    por hoy.\r\n"
+  type: 
+  nextStates:
+  - {fileID: 11400000, guid: 598346dd988d64845bf133ea2ea547e2, type: 2}
+  - {fileID: 11400000, guid: 96036cb1033283f4d855b913ac627739, type: 2}

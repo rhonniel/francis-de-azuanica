@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: S1. La promesa cumplida
+  m_EditorClassIdentifier: 
+  storyText: "Francis le muestra los elementos que recolect\xF3 durante su viaje,
+    las habichuelas de la mayimba, la az\xFAcar taina y la leche del vacaaaa. Dona
+    lola le felicito por haber tenido todos los ingredientes y le hizo con ellos la
+    mejor habichuela con dulce jam\xE1s hecha.\r\n\r\n1. Continuar\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 5087dc34ab039f946b1b0cb1eb02ed42, type: 2}

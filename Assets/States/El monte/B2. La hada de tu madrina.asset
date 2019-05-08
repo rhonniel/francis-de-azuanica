@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: B2. La hada de tu madrina
+  m_EditorClassIdentifier: 
+  storyText: "Francis sigui\xF3 el sendero del hada. francis escuchaba las inocentes
+    risas de e ser m\xE1gico mientras lo guiaba en el oscuro bosque, luego se detuvo
+    frente a un \xE1rbol, francis se acerc\xF3 para hablar con la criatura y ahi descubrio
+    se que trataba de una peligrosa avispa fosforescente y arriba del \xE1rbol se
+    asentaba toda una colmena, Francis fue atacado por estas hasta quedar inconsciente.\r\n\r\n1.Continuar\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: c563f1c04b3eb9b41a27013cee39f139, type: 2}

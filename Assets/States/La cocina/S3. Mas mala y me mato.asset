@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: S3. Mas mala y me mato
+  m_EditorClassIdentifier: 
+  storyText: "Las habichuelas quedaron malisimas, les faltaban muchos ingredientes.
+    Aun as\xED  Francis decidi\xF3 llevarlas a su padre.  Pidi\xF3 un Uber y llego
+    rapido a su hogar. Su padre estaba postrado en cama  esperando  la muerte. Francis
+    sin esperar  le dio una cucharada de esas habichuelas tan malas a su padre y este
+    se incorpor\xF3 de inmediato y sali\xF3 corriendo del aposento con energ\xEDa,\r\n\r\nFrancis
+    lo hab\xEDa logrado salvo a su padre de su rara enfermedad aunque ahora deb\xEDa
+    lidiar  con la tremenda diarrea  que le dio.\r\n\r\nAcaso francis deber\xE1 ir
+    en busca del Rollo de papel infinito o puede regresar en el tiempo y mejorar sus
+    decisiones?\r\n\r\n1- Si buscar el rollo para la pr\xF3xima aventura\r\n2- Retornar
+    y buscar los ingredientes faltantes.\r\n"
+  type: 
+  nextStates:
+  - {fileID: 11400000, guid: 96036cb1033283f4d855b913ac627739, type: 2}
+  - {fileID: 11400000, guid: 4af5502df306bae418dcb7c4d7030538, type: 2}

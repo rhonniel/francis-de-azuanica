@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A7. El vedadero flow
+  m_EditorClassIdentifier: 
+  storyText: "Francis baja por las escaleras de la izquierda, poco a poco comienza
+    a sentir el fuerte volumen de la m\xFAsica, cuando ya termina de bajar la escaleras
+    la m\xFAsica le invade todo el cuerpo no puede moverse con facilidad, m\xE1s adelante
+    ve dos figuras con gorras pico plano y vaso fon en la mano. Francis se acerca
+    ellos y le dice que bajen el volumen pero estos hace ver que no le entiende y
+    le suben mas. Francis ya  no puede ni pensar, debe saber que decirles para bajar
+    la m\xFAsica o morir\xE1.\r\n\r\nQue dira francis?\r\n\r\n1. Montro a me el favor
+    y baja la musica\r\n\r\n2. KLK WAWA  y esa melma de m\xFAsica.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 8220d1c214f218840b565e5a5472d91d, type: 2}
+  - {fileID: 11400000, guid: 46d5b8c696c6c3c49af3f33601711848, type: 2}

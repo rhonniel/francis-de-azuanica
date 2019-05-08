@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A2. El Monte
+  m_EditorClassIdentifier: 
+  storyText: "Luego de meses de cabalgar, caminar, tomar conchos y pedir bola, Francis
+    llega al rec\xF3ndito lugar llamado  El Monte. Por el cansancio del viaje el h\xE9roe
+    pierde sus fuerzas y cae en los brazos de morfeo. Durante la noche escucha m\xFAsica
+    en la lejan\xEDa del bosque, al abrir los ojos ve una especie de hada. Esta le
+    hace un adem\xE1n de seguirle por un sendero a la izquierda, pero la m\xFAsica
+    que escucha proviene del sendero de la derecha.\r\n\r\nQue decisi\xF3n tomar\xE1
+    el h\xE9roe Francis?\r\n\r\n1-Seguir el sendero de la izquierda\r\n\r\n2-Seguir
+    el sendero de la derecha.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: a4884756896451d4589299c6e4dca999, type: 2}
+  - {fileID: 11400000, guid: 0b2b4042c09b1984d99adc16af8254a2, type: 2}

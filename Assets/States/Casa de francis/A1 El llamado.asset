@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A1 El llamado
+  m_EditorClassIdentifier: 
+  storyText: "El gran h\xE9roe Francis de Azuanica va a visitar a su padre que ha
+    ca\xEDdo enfermo de muerte. El le pide como \xFAltima voluntad de gustar de las
+    legendarias habichuelas con dulce de do\xF1a Lola.\r\n\r\nQu\xE9 har\xE1 el noble
+    francis?\r\n\r\n1- Salir de inmediato a buscar el m\xEDtico alimento.\r\n\r\n2-Salir
+    de inmediato al primer supermercado y comprar unas habichuelas con dulces pre-hechas.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 598346dd988d64845bf133ea2ea547e2, type: 2}
+  - {fileID: 11400000, guid: 5bc3160b42378444484118d703272291, type: 2}

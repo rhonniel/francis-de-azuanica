@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: "A14. La cocina de do\xF1a Lola"
+  m_EditorClassIdentifier: 
+  storyText: "Francis estaba ahora en medio de una cocina de estilo campesino, hab\xEDa
+    un fog\xF3n  , tinajas y el piso era de tierra, m\xE1s adelante moviendo una paila
+    estaba una se\xF1ora con aire de cercan\xEDa y de \u201Cabuela\u201D, era do\xF1a
+    lola.\r Francis le pidi\xF3 las habichuelas con dulces, la se\xF1ora le respondi\xF3,
+    que ella hace la mano de obra pero el sabor de la habichuela depende tambi\xE9n
+    de los ingredientes.\r\n\r\nFrancis le muestra los elementos que recolect\xF3
+    durante su viaje, las habichuelas de la mayimba, la az\xFAcar taina y la leche
+    del vacaaaa. Dona lola le felicito por haber tenido todos los ingredientes y le
+    hizo con ellos la mejor habichuela con dulce jam\xE1s hecha.\r\n\r\n1. Continuar\r\n"
+  type: E
+  nextStates:
+  - {fileID: 11400000, guid: 0ffd36d9cf630be49a18612a1802244a, type: 2}
+  - {fileID: 11400000, guid: 0ffd36d9cf630be49a18612a1802244a, type: 2}
+  - {fileID: 11400000, guid: 3b4351a8f1645f74eb9df315035e4045, type: 2}
+  - {fileID: 11400000, guid: 3029d4d3019ee1841ac4f37fca81024b, type: 2}

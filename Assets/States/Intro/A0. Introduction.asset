@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cdf8ddf09d83499151e6f6d44bc7b, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: "En este manuscrito, se oculta una de las  m\xE1s incre\xEDbles epopeyas
+    jamas contadas, con el protagonismo de un h\xE9roe sin igual, Francis de azuanica.\r\n\r\nPara
+    viajar en esta infinita historia debes escoger sabiamente las acciones que debe
+    hacer el h\xE9roe con el n\xFAmero 1 o 2 seg\xFAn la pregunta, pero piensa bien
+    o caeras en las fosas del olvido.\r\n\r\n1.Iniciar aventura.\r\n"
+  type: A
+  nextStates:
+  - {fileID: 11400000, guid: 4af5502df306bae418dcb7c4d7030538, type: 2}
